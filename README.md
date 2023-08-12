@@ -20,3 +20,7 @@ CSS
 <img width="754" alt="Screenshot 2023-08-12 223441" src="https://github.com/Asharma070320/Css_Properties/assets/127501344/5aa76f52-7b76-4198-b505-0f77cf2115cb">
 <img width="761" alt="Screenshot 2023-08-12 223458" src="https://github.com/Asharma070320/Css_Properties/assets/127501344/17c08a98-99cb-4be8-8f6e-5510d19b39a0">
 <img width="728" alt="Screenshot 2023-08-12 223504" src="https://github.com/Asharma070320/Css_Properties/assets/127501344/06e762f6-4d4d-4b4b-ab40-86c385376804">
+
+
+
+<img width="947" alt="Screenshot 2023-08-12 223020" src="https://github.com/Asharma070320/Css_Properties/assets/127501344/dd90e6d9-89f6-4003-a320-581e8f70ab7f">
